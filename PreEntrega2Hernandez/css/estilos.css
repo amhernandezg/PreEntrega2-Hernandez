@@ -1,21 +1,39 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
 }
 
 body{
     height: auto;
+    width: auto;
 }
 
-/*header{
-    height: 15vh;
-}
-
-main{
-    height: 75vh;
-}
-
-footer{
-    height: 10vh;
+/*.a{
+    text-decoration: none;
+    display: inline-flex;
+    list-style: none;
 }*/
+.logo{
+    background-color: transparent;
+    width: 4rem;
+    height: 4rem;
+}
+.logo_redes{
+    background-color: transparent;
+    width: 1.5rem;
+    height: 1.5rem;
+}
+.video{
+    text-align: center;
+    align-items: center;
+    padding: 2rem;
+}
+.menu_imagen{
+    width: 10rem;
+    height: 10rem;
+}
+.gfa{
+    background-color: transparent;
+    width: 5rem;
+    height: auto;
+}
